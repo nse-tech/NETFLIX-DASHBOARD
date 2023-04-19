@@ -5,7 +5,7 @@ Using Tableau, I created a Netflix visualisation dashboard that analyses the dat
 
 My visualisation explored a variety of data points, including the total number of movies and TV Shows on Netflix by year, as well as by country. I also delved into the ratings and identified the top 10 genres of content available.
 
-One of the main insights I gleaned from my analysis was that Netflix has seen a significant increase in the number of movies and TV shows available on its platform in recent years. The number of titles has mire than doubled since 2015, thus indicating an increase in the platform’s usage.
+One of the main insights I gleaned from my analysis was that Netflix has seen a significant increase in the number of movies and TV shows available on its platform in recent years. The number of titles has more than doubled since 2015, thus indicating an increase in the platform’s usage.
 
 I also found that Netflix content is diverse, with titles available from countries all over the world. While the United States dominates the list with the highest number of titles, there are significant contributions from other countries such as India, the United Kingdom, Canada and France.
 
