@@ -11,7 +11,7 @@ I also found that Netflix content is diverse, with titles available from countri
 
 Furthermore, my analysis showed that the most popular genres on Netflix are Dramas, Documentaries and Comedy with a significant number of titles falling into these categories.
 
-Overall, my Netflix dashboard is a powerful too for showcasing my data analysis skills using Tableau. It provides a fascinating glimpse into the world of Netflix and its wide range of content, and I am excited to share it.
+Overall, my Netflix dashboard is a powerful tool for showcasing my data analysis skills using Tableau. It provides a fascinating glimpse into the world of Netflix and its wide range of content, and I am excited to share it.
 
 The dashboard can be interacted with on Tableau.
 https://public.tableau.com/app/profile/nsetech/viz/NETFLIXDASHBOARD_16819244708300/NETFLIX
